@@ -1,0 +1,3 @@
+[submodule "week2/SolanaBootcampOctober"]
+	path = week2/SolanaBootcampOctober
+	url = https://github.com/ExtropyIO/SolanaBootcampOctober.git
