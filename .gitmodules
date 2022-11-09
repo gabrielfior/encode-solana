@@ -1,3 +1,6 @@
 [submodule "week2/SolanaBootcampOctober"]
 	path = week2/SolanaBootcampOctober
 	url = https://github.com/ExtropyIO/SolanaBootcampOctober.git
+[submodule "week3/dapp-scaffold"]
+	path = week3/dapp-scaffold
+	url = https://github.com/gabrielfior/dapp-scaffold.git
